@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
@@ -32,4 +33,6 @@ compress_html: # - http://jch.penibelst.de/
 port: 4000
 host: 0.0.0.0
 safe: false
+=======
 theme: jekyll-theme-modernist
+>>>>>>> 9022694e73814bd14447333658d1d358b1098acc
